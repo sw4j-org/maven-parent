@@ -1,3 +1,5 @@
+@Library('jenkins-helpers@master')_
+
 pipeline {
   agent any
   stages {
