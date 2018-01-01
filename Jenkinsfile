@@ -1,4 +1,4 @@
-@Library('jenkins-helpers@master')_
+@Library('jenkins-helpers@java-8')_
 
 pipeline {
   agent any
