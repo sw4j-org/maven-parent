@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suppressions xmlns="https://www.owasp.org/index.php/OWASP_Dependency_Check_Suppression">
+  <!--<suppress>
+      <notes><![CDATA[Reason]]></notes>
+      <sha1>66734244CE86857018B023A8C56AE0635C56B6A1</sha1>
+      <gav regex="true">org\.example:example.*</gav>
+      <cpe>cpe:/a:example:example:x.y.z</cpe>
+      <cve>CVE-1999-1234</cve>
+   </suppress>-->
+</suppressions>
